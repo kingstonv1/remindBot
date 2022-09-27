@@ -10,7 +10,6 @@ const SCOPES =
     'https://www.googleapis.com/auth/gmail.addons.current.message.metadata',
     'https://www.googleapis.com/auth/gmail.addons.current.message.readonly',
     'https://www.googleapis.com/auth/gmail.addons.current.message.action',
-    'https://www.googleapis.com/auth/gmail.labels',
     'https://www.googleapis.com/auth/gmail.readonly',
     'https://www.googleapis.com/auth/gmail.metadata'
 ];
