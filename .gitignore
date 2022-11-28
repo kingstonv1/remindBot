@@ -106,3 +106,4 @@ dist
 credentials.json
 
 package-lock.json
+.eslintrc.json

@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "imap": "^0.8.19"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
   }
 }
